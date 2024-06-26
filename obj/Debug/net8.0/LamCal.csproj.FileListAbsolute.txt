@@ -12,3 +12,4 @@ D:\Users\Администратор\Documents\Programming\LambaCalculus\csharp\L
 D:\Users\Администратор\Documents\Programming\LambaCalculus\csharp\LamCal\obj\Debug\net8.0\LamCal.pdb
 D:\Users\Администратор\Documents\Programming\LambaCalculus\csharp\LamCal\obj\Debug\net8.0\LamCal.genruntimeconfig.cache
 D:\Users\Администратор\Documents\Programming\LambaCalculus\csharp\LamCal\obj\Debug\net8.0\ref\LamCal.dll
+D:\Users\Администратор\Documents\Programming\LambaCalculus\csharp\LamCal\obj\Debug\net8.0\LamCal.sourcelink.json
